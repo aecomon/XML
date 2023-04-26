@@ -1,1 +1,7 @@
-
+<bug report>
+  <title>Отсутвует раздел [Education] в Dropdown [Navbar], на Индонезийском языке</tittle>
+  <steps>1. Открыть страницу; 2. Выбрать индонезийский язык</steps>
+  <expectedresult>Присутвует вкладка Education</expectedresult>
+  <actualresult>Вкладка Education отсутвует</actualresult>
+</bug report>  
+ 
